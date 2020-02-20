@@ -1,0 +1,11 @@
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\bin\Debug\netcoreapp3.0\use_MatchingPattern.exe
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\bin\Debug\netcoreapp3.0\use_MatchingPattern.deps.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\bin\Debug\netcoreapp3.0\use_MatchingPattern.runtimeconfig.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\bin\Debug\netcoreapp3.0\use_MatchingPattern.runtimeconfig.dev.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\bin\Debug\netcoreapp3.0\use_MatchingPattern.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\bin\Debug\netcoreapp3.0\use_MatchingPattern.pdb
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\obj\Debug\netcoreapp3.0\use_MatchingPattern.csprojAssemblyReference.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\obj\Debug\netcoreapp3.0\use_MatchingPattern.AssemblyInfoInputs.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\obj\Debug\netcoreapp3.0\use_MatchingPattern.AssemblyInfo.cs
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\obj\Debug\netcoreapp3.0\use_MatchingPattern.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_MatchingPattern\use_MatchingPattern\obj\Debug\netcoreapp3.0\use_MatchingPattern.pdb

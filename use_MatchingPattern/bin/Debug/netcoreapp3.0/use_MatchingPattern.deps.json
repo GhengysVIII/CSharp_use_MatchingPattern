@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "use_MatchingPattern/1.0.0": {
+        "runtime": {
+          "use_MatchingPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "use_MatchingPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
